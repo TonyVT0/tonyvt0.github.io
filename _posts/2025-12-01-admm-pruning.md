@@ -55,7 +55,7 @@ We validated our experiments using the **CIFAR10 dataset**. We applied the metho
 ### Training Convergence
 ADMM exhibited higher training loss and slower convergence compared to the baseline, indicating the difficulty of optimization under strict sparsity constraints.
 
-![Training Objective and Validation Accuracy]({{ '/assets/img/admm-pruning/training_curves.png' | relative_url }}){: .mx-auto.d-block :}
+![Training Objective and Validation Accuracy]({{ '/assets/img/admm-pruning/Figure1.png' | relative_url }}){: .mx-auto.d-block :}
 *Figure 1: Comparison of Training Objective and Validation Accuracy.*
 
 ### Accuracy Comparison
@@ -77,7 +77,7 @@ We analyzed the weight distributions to understand the pruning behavior.
 * **Baseline:** Exhibits an approximately normal distribution; pruning removes weights near zero.
 * **ADMM:** Many weights are driven *exactly* to zero during optimization. After pruning, the distribution becomes multimodal, suggesting a sharper separation between important and unimportant weights.
 
-![Weight Distribution of ADMM Method]({{ '/assets/img/admm-pruning/weight_dist_admm.png' | relative_url }}){: .mx-auto.d-block :}
+![Weight Distribution of ADMM Method]({{ '/assets/img/admm-pruning/Figure3.png' | relative_url }}){: .mx-auto.d-block :}
 *Figure 2: Weight distribution of ADMM method showing multimodal separation.*
 
 ## Conclusion
