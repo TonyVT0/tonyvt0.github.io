@@ -29,7 +29,7 @@ $$\min f(W) \quad \text{s.t.} \quad \text{card}(W) \le l$$
 Where $$l$$ is the target number of non-zero weights. This method enforces hard constraints by simply pruning weights after every step.
 
 ### 2. The Optimization: ADMM-Based Pruning
-ADMM formulates pruning as a constrained optimization problem. We reformulate the objective by introducing an auxiliary variable $$Z$$and an indicator function$$g(Z)$$that enforces the sparsity set$$S$$:
+ADMM formulates pruning as a constrained optimization problem. We reformulate the objective by introducing an auxiliary variable $$Z$$ and an indicator function$$g(Z)$$that enforces the sparsity set$$S$$:
 
 $$\min_{W} f(W) + g(Z) \quad \text{s.t.} \quad W = Z$$
 
@@ -37,7 +37,7 @@ The problem is solved using the **Augmented Lagrangian**:
 
 $$L_{p}(W,Z,U) = f(W) + g(Z) + \frac{\rho}{2} \|W - Z + U\|_F^2$$
 
-Where $$U$$represents the dual variables and$$\|\cdot\|_{F}$$is the Frobenius norm. The algorithm proceeds by iteratively updating$$W$$, $$Z$$, and $$U$$, where $$Z$$is projected onto the sparsity set$$S$$ via Euclidean projection.
+Where $$U$$ represents the dual variables and $$\|\cdot\|_{F}$$ is the Frobenius norm. The algorithm proceeds by iteratively updating$$W$$, $$Z$$, and $$U$$, where $$Z$$ is projected onto the sparsity set $$S$$ via Euclidean projection.
 
 ## Experimental Setup
 
