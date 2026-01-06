@@ -31,5 +31,6 @@ title: News
 - **December 2021** - We receive *2nd Place* in Digital Systems Lab (ELET 2103) with our project, Car Door Alarm System.
 
 ### 2020
-- **August 2020** - I join the University of Houston as a tech undergraduate and The Honors College.
+- **August 2020** - I join the University of Houston and The Honors College.
 - **May 2020** - I graduate Cypress Falls High School with Foundation Distinguished High School Diploma (Summa Cum Laude).
+
