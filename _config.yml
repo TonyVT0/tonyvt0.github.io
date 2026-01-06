@@ -26,6 +26,7 @@ navbar-links:
   #   - Learn markdown: "https://www.markdowntutorial.com/"
   Coursework: "coursework"
   Teachings: "teaching"
+  News: "news"
   CV: "/assets/pdf/CV.pdf"
 
 ################
