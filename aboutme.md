@@ -4,15 +4,17 @@ title: About me
 subtitle: Who is Tony Tran?
 ---
 
-Research/Teaching Assistant
-MS Student in Engineering Data Science and AI
-Office: 122, ENGR4 (SAB2) at Sugar Land
-Phone: (346) 932-2540
-Research Computing | Engineering Technology
-Cullen College of Engineering
-University of Houston
-14000 University Blvd
-Sugar Land, Texas 77479-0800
+<div style="text-align: center;">
+  Research/Teaching Assistant<br>
+  MS Student in Engineering Data Science and AI<br>
+  Office: 122, ENGR4 (SAB2) at Sugar Land<br>
+  Phone: (346) 932-2540<br>
+  Research Computing | Engineering Technology<br>
+  Cullen College of Engineering<br>
+  University of Houston<br>
+  14000 University Blvd<br>
+  Sugar Land, Texas 77479-0800
+</div>
 
 ### My story
 
