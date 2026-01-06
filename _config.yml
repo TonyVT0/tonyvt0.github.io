@@ -24,7 +24,7 @@ navbar-links:
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
-  CV: "https://github.com/TonyVT0/tonyvt0.github.io/blob/master/assets/pdf/CV.pdf"
+  CV: "/assets/pdf/CV.pdf"
 
 ################
 # --- Logo --- #
