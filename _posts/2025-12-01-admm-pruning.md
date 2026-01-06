@@ -86,6 +86,7 @@ This project highlights the trade-offs between heuristic and optimization-driven
 
 {: .box-note}
 **Key Findings:**
+
 1.  **Structured Sparsity:** ADMM can induce sharper sparsity patterns and potentially better accuracy on specific architectures like MobileNetV2.
 
 2.  **Optimization Difficulty:** ADMM introduces significant stability challenges, characterized by slower convergence and lower pre-pruning accuracy.
