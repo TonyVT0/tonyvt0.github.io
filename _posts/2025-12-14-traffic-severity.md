@@ -42,10 +42,10 @@ While these models achieved a respectable accuracy of **~77%**, a deeper look at
 * **Macro F1 Score:** 0.26 (Logistic Regression) / 0.29 (LDA)
 * **Observation:** The models failed to capture the decision boundaries for the minority classes (Severity 1 and 4).
 
-![LDA Class Separation]({{ '/assets/img/traffic-severity/lda-projection.png' | relative_url }}){: .mx-auto.d-block :}
+![LDA Class Separation]({{ '/assets/img/traffic-severity/Figure1.png' | relative_url }}){: .mx-auto.d-block :}
 *Figure 1: LDA 1D Projection showing heavy overlap between Severity 2 and 3, confirming that accident severity is not linearly separable.*
 
-![Logistic Regression Feature Importance]({{ '/assets/img/traffic-severity/logreg-importance.png' | relative_url }}){: .mx-auto.d-block :}
+![Logistic Regression Feature Importance]({{ '/assets/img/traffic-severity/Figure2.png' | relative_url }}){: .mx-auto.d-block :}
 *Figure 2: Feature Importance for Logistic Regression. Note that 'Start_Year' and 'Temperature' are strong positive predictors.*
 
 ## Methodology 2: Capturing Non-Linearity
@@ -61,10 +61,10 @@ We compared **Random Forest** (a bagging technique) against **Light Gradient Boo
 ### Feature Importance Analysis
 The transition to non-linear models shifted the hierarchy of feature importance significantly. While linear models focused on Year and Temperature, LightGBM identified **Geography** as the dominant factor.
 
-![LightGBM Feature Importance]({{ '/assets/img/traffic-severity/lgbm-importance.png' | relative_url }}){: .mx-auto.d-block :}
+![LightGBM Feature Importance]({{ '/assets/img/traffic-severity/Figure3.png' | relative_url }}){: .mx-auto.d-block :}
 *Figure 3: LightGBM Feature Importance. Start_Lng and Start_Lat (Location) are by far the most significant predictors.*
 
-![Random Forest Feature Importance]({{ '/assets/img/traffic-severity/rf-importance.png' | relative_url }}){: .mx-auto.d-block :}
+![Random Forest Feature Importance]({{ '/assets/img/traffic-severity/Figure4.png' | relative_url }}){: .mx-auto.d-block :}
 *Figure 4: Random Forest Feature Importance. This model prioritized temporal features (Start Year) over location.*
 
 ## Methodology 3: Unsupervised Clustering
@@ -81,10 +81,10 @@ The algorithm identified four distinct natural groupings based largely on weathe
 2.  **Cluster 2 (High Risk):** Characterized by **high humidity** and **low visibility**. This cluster had elevated severity levels.
 3.  **Clusters 0 & 3 (Mild):** Normal conditions corresponding to lower average severity.
 
-![Elbow Method Curve]({{ '/assets/img/traffic-severity/elbow-method.png' | relative_url }}){: .mx-auto.d-block :}
+![Elbow Method Curve]({{ '/assets/img/traffic-severity/Figure5.png' | relative_url }}){: .mx-auto.d-block :}
 *Figure 5: The Elbow Method used to select k=4 optimal clusters.*
 
-![K-Means PCA Plot]({{ '/assets/img/traffic-severity/kmeans-pca.png' | relative_url }}){: .mx-auto.d-block :}
+![K-Means PCA Plot]({{ '/assets/img/traffic-severity/Figure6.png' | relative_url }}){: .mx-auto.d-block :}
 *Figure 6: Visualization of the 4 clusters in PCA space. Note the distinct separation of weather regimes.*
 
 ## Results Summary
