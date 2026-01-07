@@ -24,7 +24,7 @@ title: News
 - **May 2023** - We receive *1st Place* in Communication Circuits (ELET 3402) with our project, Wireless Elevator Communication.
 
 ### 2022
-- **December 2022** - We receive *1st Place* in Sensor Applications (ELET 3403) with our project, Devestating Driving Prevention Device (DDPD).
+- **December 2022** - We receive *1st Place* in Sensor Applications (ELET 3403) with our project, [Devestating Driving Prevention Device (DDPD)](https://tonyvt0.github.io/2022-12-15-ddpd/).
 
 ### 2021
 - **December 2021** - We receive *1st Place* in Digital Systems (ELET 2303) with our project, Digital Connect 4.
@@ -33,6 +33,7 @@ title: News
 ### 2020
 - **August 2020** - I join the University of Houston and The Honors College.
 - **May 2020** - I graduate Cypress Falls High School with Foundation Distinguished High School Diploma (Summa Cum Laude).
+
 
 
 
