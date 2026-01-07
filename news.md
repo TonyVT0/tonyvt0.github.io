@@ -5,7 +5,7 @@ title: News
 
 ### 2025
 - **December 2025** — Our paper [TrashDet: Iterative Neural Architecture Search for Efficient Waste Detection](https://arxiv.org/abs/2512.20746) has been accepted for presentation at the *WASTEVISION: International Workshop on Smart Waste Monitoring at The IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026*.
-- **April 2025** - Our paper FACETS: Efficient Once-for-all Object Detection via Constrained Iterative Search has been accepted for presentation at the *2025 IEEE International Conference on Robotics and Automation (ICRA) Late Breaking Session*, Atlanta, USA. [[Video Demo]](https://www.youtube.com/watch?v=jgrmN9YZ8vA) [[Poster]](https://binhu85.github.io/assets/pdf/FACET.pdf)
+- **April 2025** - Our paper FACETS: Efficient Once-for-all Object Detection via Constrained Iterative Search has been accepted for presentation at the *2025 IEEE International Conference on Robotics and Automation (ICRA) Late Breaking Session*, Atlanta, USA. [[Video Demo]](https://www.youtube.com/watch?v=jgrmN9YZ8vA) [[Poster]](/assets/pdf/FACET.pdf)
 - **January 2025** - Our paper [Distributed Perception Aware Safe Leader Follower System via Control Barrier Methods](https://nail-uh.github.io/icra25.github.io/) has been accepted for presentation at the *2025 IEEE International Conference on Robotics and Automation (ICRA)*, May 19-23, 2025, Atlanta, USA. (Acceptance Rate: 38.67%).
 
 ### 2024
@@ -33,5 +33,6 @@ title: News
 ### 2020
 - **August 2020** - I join the University of Houston and The Honors College.
 - **May 2020** - I graduate Cypress Falls High School with Foundation Distinguished High School Diploma (Summa Cum Laude).
+
 
 
