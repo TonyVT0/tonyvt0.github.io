@@ -85,7 +85,7 @@ The final prototype successfully demonstrated the ability to:
 Below is a commercial demonstrating the Otto Sorting Bin in action.
 
 <div style="text-align: center;">
-<iframe width="560" height="315" src="https://youtu.be/jShU_pcXrUc?si=Y0Rg_aZ2ru3ic0a_" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jShU_pcXrUc?si=sdewl-W4uNZUeTeD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## Novel Insights
