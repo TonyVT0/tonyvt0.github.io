@@ -13,12 +13,12 @@ title: News
 - **June 2024** - I receive my Engineering in Training (FE/EIT) License in Electrical and Computer Engineering (Texas: 81224)
 - **May 2024** - I receive University Honors awarded by the Honors College at UH.
 - **May 2024** - I graduate the University of Houston with BS in Computer Engineering Technology (*Summa Cum Laude*) from Cullen College of Engineering.
-- **May 2024** - We receive *1st Place* in Senior Project Lab (ELET 4208) with our project, Otto Sorting Bin.
-- **April 2024** - I present [Otto Sorting Bin](https://uh-ir.tdl.org/items/d1508ef4-afed-479b-a3ad-d3495342be96) in Undergraduate Research Day (URD) 2024.
+- **May 2024** - We receive *1st Place* in Senior Project Lab (ELET 4208) with our project, [Otto Sorting Bin](https://tonyvt0.github.io/2024-05-07-otto-sorting-bin/).
+- **April 2024** - I present [Otto Sorting Bin](https://tonyvt0.github.io/2024-05-07-otto-sorting-bin/) in Undergraduate Research Day (URD) 2024 [[Poster]](https://uh-ir.tdl.org/items/d1508ef4-afed-479b-a3ad-d3495342be96).
 
 ### 2023
 - **December 2023** - I join [Networked Autonomous Intelligent Learning (NAIL) Lab](https://binhu85.github.io/team-members/) focusing on research in Efficient Tiny ML & Embedded AI.
-- **December 2023** - We receive *2nd Place* in Senior Project (ELET 4308) with our project, Otto Sorting Bin.
+- **December 2023** - We receive *2nd Place* in Senior Project (ELET 4308) with our project, [Otto Sorting Bin](https://tonyvt0.github.io/2024-05-07-otto-sorting-bin/).
 - **August 2023** - I pass the FE Electrical and Computer Examination.
 - **May 2023** - We receive *1st Place* in Embedded Systems (ELET 3425) with our project, Hand Gestured Stroller.
 - **May 2023** - We receive *1st Place* in Communication Circuits (ELET 3402) with our project, Wireless Elevator Communication.
@@ -33,4 +33,5 @@ title: News
 ### 2020
 - **August 2020** - I join the University of Houston and The Honors College.
 - **May 2020** - I graduate Cypress Falls High School with Foundation Distinguished High School Diploma (Summa Cum Laude).
+
 
