@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ADMM Pruning for Efficient Deep Learning
+title: ✂️ ADMM Pruning for Efficient Deep Learning
 subtitle: Comparing Heuristic vs. Optimization-Based Approaches
 gh-repo: TonyVT0/ADMM-Pruning-for-Efficient-Deep-Learning
 gh-badge: [star, fork, follow]
