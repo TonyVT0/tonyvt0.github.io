@@ -12,9 +12,12 @@ title: Skills
 - Verilog
 
 ### Machine Learning & AI
-- **Deep Learning Frameworks**
+- **Machine/Deep Learning Frameworks**
   - PyTorch
   - TensorFlow
+  - Scikit-Learn
+  - XGBoost
+  - LightGBM
 - **Training & Scaling**
   - Distributed Training (DDP / DDPD)
 - **Reinforcement Learning**
@@ -30,6 +33,7 @@ title: Skills
   - Decision Trees
   - Random Forest
   - Linear Discriminant Analysis (LDA)
+  - Light Gradient Boosting Machine (LightGBM)
 - **Unsupervised Learning**
   - K-Means Clustering
   - DBSCAN
@@ -42,16 +46,14 @@ title: Skills
   - Classification
   - Segmentation
 - **Frameworks**
-  - YOLO (Ultralytics)
-  - Mask R-CNN
-  - Detectron2
+  - Ultralytics (YOLO)
+  - Detectron2 (Mask R-CNN)
   - OpenCV
   - Roboflow
 
-### Systems for Efficient AI
+### Systems for EdgeAI / TinyML
 - Neural Architecture Search (NAS)
 - Once-For-All (OFA)
-- EdgeAI / TinyML
 - **Pruning**
   - Structured Pruning
   - Unstructured Pruning
@@ -64,6 +66,7 @@ title: Skills
   - TinyEngine
 
 ### Data
+- SciPy
 - NumPy
 - Pandas
 - Data Preprocessing
