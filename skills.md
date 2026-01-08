@@ -6,6 +6,7 @@ title: Skills
 ### Programming Languages
 - Python
 - C/C++
+- Embedded C
 - Java
 - HTML
 - MATLAB
