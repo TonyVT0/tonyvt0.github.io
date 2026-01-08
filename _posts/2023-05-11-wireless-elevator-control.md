@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wireless Elevator Control
+title: 🛗 Wireless Elevator Control
 subtitle: Replacing Cables with Frequency Shift Keying (FSK)
 tags: [embedded-systems, analog-electronics, arduino, signal-processing, communications]
 comments: true
