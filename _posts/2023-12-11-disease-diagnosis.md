@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Disease Diagnosis using Deep Learning
+title: 🩺 Disease Diagnosis using Deep Learning
 subtitle: Implementing a Deep Learning Symptom Checker in Matlab
 tags: [deep-learning, matlab, healthcare, neural-networks]
 comments: true
