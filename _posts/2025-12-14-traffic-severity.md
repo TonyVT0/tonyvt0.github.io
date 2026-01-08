@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Modeling Traffic Accident Severity in Texas
+title: 💥 Modeling Traffic Accident Severity in Texas
 subtitle: Predicting the Crash using LightGBM and K-Means
 tags: [data-science, machine-learning, lightgbm, traffic-analysis, python]
 comments: true
