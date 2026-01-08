@@ -24,10 +24,11 @@ navbar-links:
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
+  Publications: "publications"
   Resources:
-   - Publications: "publications"
    - Coursework: "coursework"
    - Teachings: "teaching"
+   - Skills: "skills"
   News: "news"
   CV: "/assets/pdf/CV.pdf"
 
