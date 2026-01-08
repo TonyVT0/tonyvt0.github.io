@@ -3,7 +3,7 @@ layout: page
 title: Coursework
 ---
 
-#### Graduate — Engineering Data Science and AI (MS)
+## Graduate — Engineering Data Science and AI (MS)
 **Machine Learning / Data Science**
 - CIVE 6358 — Deep Learning for Engineers
 - EDS 6340 — Introduction to Data Science
@@ -15,7 +15,7 @@ title: Coursework
 - INDE 6372 — Advanced Linear Optimization
 - INDE 7342 — Nonlinear Optimization
 
-#### Undergraduate — Computer Engineering Technology (BS)
+## Undergraduate — Computer Engineering Technology (BS)
 **Circuits, Devices, Signals, Communications**
 - ELET 1400 — Circuit Theory and Lab I
 - ELET 1401 — Circuit Theory and Lab II
@@ -64,4 +64,5 @@ title: Coursework
 - TLIM 3340 — Org Leadership & Supervision
 - TLIM 3345 — Human Resources in Technology
 - TLIM 3355 — Project Management Principles
+
 - TLIM 3363 — Technical Communications
