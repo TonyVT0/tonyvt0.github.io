@@ -76,6 +76,10 @@ title: Skills
 - Matplotlib
 - Seaborn
 - Tableau
+- Canva
+- Draw.io
+- Lucid Chart
+- PowerPoint
 
 ### Hardware / Embedded / Robotics
 - **Platforms**
