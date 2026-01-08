@@ -83,6 +83,8 @@ title: Skills
   - Jetson Nano (ARM Cortex-A57 + NVIDIA Maxwell GPU)
   - TM4C123GXL (ARM Cortex-M4F)
   - Arduino Uno (ATmega328P)
+  - STM32F746G
+  - DE2i-150 FPGA Board
 - **Motors / Actuation**
   - NEMA 17 Stepper Motors
   - Servo Motors
@@ -95,10 +97,28 @@ title: Skills
   - UART
 - **Embedded Debugging**
   - JTAG
+  - PuTTY
   - Logic Analyzer
   - Oscilloscope
 
-### Tools / OS
+### Tools / IDEs / EDA
 - Git
 - Linux
 - Bash
+- Eclipse
+- VS Code
+- Arduino IDE
+- STM32CubeIDE
+- Keil uVision
+- NI LabVIEW
+- NI Multisim
+- Intel Quartus Prime
+- ModelSim
+
+### AI Tools
+- ChatGPT (OpenAI)
+- Gemini (Google)
+- Claude (Anthropic)
+- Cursor (Anysphere)
+- NotebookLM (Google)
+- DeepSeek (DeepSeek)
