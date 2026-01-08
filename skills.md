@@ -3,8 +3,6 @@ layout: page
 title: Skills
 ---
 
-## Technical Skills
-
 ### Programming Languages
 - Python
 - C/C++
