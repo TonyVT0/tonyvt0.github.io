@@ -118,6 +118,7 @@ title: Skills
 - NI Multisim
 - Intel Quartus Prime
 - ModelSim
+- Lambda GPU Cloud
 
 ### AI Tools
 - ChatGPT (OpenAI)
