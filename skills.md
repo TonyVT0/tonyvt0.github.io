@@ -83,7 +83,7 @@ title: Skills
   - Jetson Nano (ARM Cortex-A57 + NVIDIA Maxwell GPU)
   - TM4C123GXL (ARM Cortex-M4F)
   - Arduino Uno (ATmega328P)
-  - STM32F746G
+  - STM32F746G (ARM Cortex-M7)
   - DE2i-150 FPGA Board
 - **Motors / Actuation**
   - NEMA 17 Stepper Motors
