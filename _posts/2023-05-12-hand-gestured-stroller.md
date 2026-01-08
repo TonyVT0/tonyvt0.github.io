@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hand Gestured Stroller
+title: 👶 Hand Gestured Stroller
 subtitle: Embedded Control with TM4C123 and Accelerometer-Based Gesture Recognition
 tags: [embedded-systems, c, tm4c123, mpu6050, robotics]
 comments: true
