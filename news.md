@@ -1,7 +1,7 @@
 ---
 layout: page
 title: News
-subtitle: I will attend WACV2026 from March 6-10 in Tucson, Arizona to present my work on TrashDet: Iterative Neural Architecture Search for Efficient Waste Detection in the WasteVision workshop.
+subtitle: I will attend WACV2026 from March 6 to 10 in Tucson, Arizona to present my work on [TrashDet: Iterative Neural Architecture Search for Efficient Waste Detection](https://arxiv.org/abs/2512.20746) in the WasteVision workshop.
 ---
 
 ### 2025
