@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Otto Sorting Bin
+title: 🤖 Otto Sorting Bin
 subtitle: Automating Waste Management with Computer Vision and Robotics
 tags: [robotics, computer-vision, jetson-nano, yolov8, embedded-systems]
 comments: true
