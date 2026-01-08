@@ -3,7 +3,7 @@ layout: page
 title: Skills
 ---
 
-### Programming Languages
+## Programming Languages
 - Python
 - C/C++ (Embedded)
 - Java
@@ -11,7 +11,7 @@ title: Skills
 - MATLAB
 - Verilog
 
-### Machine Learning & AI
+## Machine Learning & AI
 - **Machine/Deep Learning Frameworks**
   - PyTorch
   - TensorFlow
@@ -40,7 +40,7 @@ title: Skills
 - **Dimensionality Reduction**
   - Principal Component Analysis (PCA)
 
-### Computer Vision
+## Computer Vision
 - **Tasks**
   - Object Detection
   - Classification
@@ -51,7 +51,7 @@ title: Skills
   - OpenCV
   - Roboflow
 
-### Systems for EdgeAI / TinyML
+## Systems for EdgeAI / TinyML
 - Neural Architecture Search (NAS)
 - Once-For-All (OFA)
 - **Pruning**
@@ -65,14 +65,14 @@ title: Skills
   - TFLite
   - TinyEngine
 
-### Data
+## Data
 - SciPy
 - NumPy
 - Pandas
 - Data Preprocessing
 - Data Augmentation
 
-### Visualization
+## Visualization
 - Matplotlib
 - Seaborn
 - Tableau
@@ -81,7 +81,7 @@ title: Skills
 - Lucid Chart
 - PowerPoint
 
-### Hardware / Embedded / Robotics
+## Hardware / Embedded / Robotics
 - **Platforms**
   - MAX78000/02 (ARM Cortex-M4F)
   - Jetson Nano (ARM Cortex-A57 + NVIDIA Maxwell GPU)
@@ -105,7 +105,7 @@ title: Skills
   - Logic Analyzer
   - Oscilloscope
 
-### Tools / IDEs / EDA
+## Tools / IDEs / EDA
 - Git
 - Linux
 - Bash
@@ -120,7 +120,7 @@ title: Skills
 - ModelSim
 - Lambda GPU Cloud
 
-### AI Tools
+## AI Tools
 - ChatGPT (OpenAI)
 - Gemini (Google)
 - Claude (Anthropic)
