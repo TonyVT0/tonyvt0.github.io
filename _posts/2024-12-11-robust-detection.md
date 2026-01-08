@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 1-Lipschitz Layers Beyond Classification
+title: 🛡️ 1-Lipschitz Layers Beyond Classification
 subtitle: Exploring Robustness in Object Detection with Tinier SSD
 gh-repo: TonyVT0/1-Lipchitz-Layers-Beyond-Classification
 gh-badge: [star, fork, follow]
