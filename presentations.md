@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Publications
+title: Presentations
 ---
 
 ## TrashDet
 
-{% include embed-pdf.html src="/assets/pdf/TrashDet.pdf" %}
+{% include embed-pdf.html src="/assets/pdf/TrashDet.pdf#view=FitH" %}
 
 ## Rare Event Modeling
 
-{% include embed-pdf.html src="/assets/pdf/RareEventModeling.pdf" %}
+{% include embed-pdf.html src="/assets/pdf/RareEventModeling.pdf#view=FitH" %}
