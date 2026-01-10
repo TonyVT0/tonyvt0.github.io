@@ -13,6 +13,7 @@ title: Publications
 
 ## Under Review
 
-[4] **T. Tran**, Q. Lin, and B. Hu, “**ELASTIC: Efficient Once for All Iterative Search for Object Detection on Microcontrollers**,” Under review at *IEEE Transactions on Computers – Briefs*, 2025. [[Paper]](https://arxiv.org/pdf/2503.21999v2)
+[4] **T. Tran**, Q. Lin, and B. Hu, “**ELASTIC: Efficient Once for All Iterative Search for Object Detection on Microcontrollers**,” Under review at *IEEE Transactions on Computers – Briefs*, 2025. [[Paper]](https://arxiv.org/abs/2503.21999)
+
 
 
