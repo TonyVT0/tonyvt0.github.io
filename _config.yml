@@ -29,7 +29,7 @@ navbar-links:
    - Coursework: "coursework"
    - Teachings: "teaching"
    - Skills: "skills"
-   - Presentations: "presentations"
+   # - Slides: "presentations"
   News: "news"
   CV: "/assets/pdf/CV.pdf"
 
