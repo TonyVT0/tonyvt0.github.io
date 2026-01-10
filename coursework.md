@@ -64,5 +64,5 @@ title: Coursework
 - TLIM 3340 — Org Leadership & Supervision
 - TLIM 3345 — Human Resources in Technology
 - TLIM 3355 — Project Management Principles
-
 - TLIM 3363 — Technical Communications
+
