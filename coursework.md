@@ -47,17 +47,12 @@ title: Coursework
 - MECT 4188 — Ethics in Engineering Tech
 - MECT 3341 — Computer-Aided Drafting
 
-**Engineering Math & Science Core**
+**Engineering Math Core**
 - MATH 1431 — Calculus I
 - MATH 1432 — Calculus II
 - MATH 2415 — Calculus III
 - MATH 2318 — Linear Algebra
 - MATH 3321 — Engineering Mathematics
-- PHYS 1301 — Intro General Physics I
-- PHYS 1302 — Intro General Physics II
-- PHYS 1101 — College Physics I (Lab)
-- PHYS 1102 — College Physics II (Lab)
-- CHEM 1305 — Foundations of Chemistry
 
 **Technology Leadership / Project Management (TLIM)**
 - TLIM 3330 — Innovation Principles
@@ -65,4 +60,3 @@ title: Coursework
 - TLIM 3345 — Human Resources in Technology
 - TLIM 3355 — Project Management Principles
 - TLIM 3363 — Technical Communications
-
