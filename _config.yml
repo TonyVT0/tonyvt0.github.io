@@ -29,7 +29,6 @@ navbar-links:
    - Coursework: "coursework"
    - Teachings: "teaching"
    - Skills: "skills"
-   - Transcript: "/assets/pdf/SSR_TSRPT.pdf"
    # - Slides: "presentations"
   News: "news"
   CV: "/assets/pdf/CV.pdf"
