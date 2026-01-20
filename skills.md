@@ -9,6 +9,7 @@ title: Skills
 - Java
 - HTML
 - MATLAB
+- LaTeX
 - Verilog
 
 ## Machine Learning & AI
@@ -109,13 +110,15 @@ title: Skills
 - Git
 - Linux
 - Bash
-- Eclipse
 - VS Code
+- Overleaf
+- Eclipse
 - Arduino IDE
 - STM32CubeIDE
 - Keil uVision
 - NI LabVIEW
 - NI Multisim
+- AutoCAD
 - Intel Quartus Prime
 - ModelSim
 - Lambda GPU Cloud
