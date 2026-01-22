@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-## Peer-Reviewed Publications
+## Published Publications
 
 [1] **T. Tran** and B. Hu, “**TrashDet: Iterative Neural Architecture Search for Efficient Waste Detection**,” in Proceedings of the *2026 IEEE/CVF Winter Conference on Applications of Computer Vision Workshops (WACVW)*, Tucson, AZ, USA, Mar. 2026. [[Paper]](https://arxiv.org/abs/2512.20746)
 
@@ -14,6 +14,7 @@ title: Publications
 ## Under Review
 
 [4] **T. Tran**, Q. Lin, and B. Hu, “**ELASTIC: Efficient Once for All Iterative Search for Object Detection on Microcontrollers**,” Under review at *IEEE Transactions on Computers – Briefs*, 2025. [[Paper]](https://arxiv.org/abs/2503.21999)
+
 
 
 
